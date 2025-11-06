@@ -1,0 +1,110 @@
+[24-Aug-2025 07:55:29 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[24-Aug-2025 07:55:30 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[24-Aug-2025 07:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[29-Aug-2025 21:12:02 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[29-Aug-2025 21:12:02 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[29-Aug-2025 21:12:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[01-Sep-2025 18:39:06 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[01-Sep-2025 18:39:06 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[01-Sep-2025 18:39:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[04-Sep-2025 22:44:06 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[04-Sep-2025 22:44:06 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[04-Sep-2025 22:44:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[10-Sep-2025 05:08:19 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[10-Sep-2025 05:08:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[10-Sep-2025 05:36:27 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[10-Sep-2025 05:36:27 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[10-Sep-2025 05:36:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[10-Sep-2025 06:17:26 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[10-Sep-2025 06:17:26 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[10-Sep-2025 06:17:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[10-Sep-2025 12:23:27 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[10-Sep-2025 12:23:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[11-Sep-2025 00:00:33 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[11-Sep-2025 00:00:33 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[11-Sep-2025 00:00:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[15-Sep-2025 22:40:46 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[15-Sep-2025 22:40:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[17-Sep-2025 00:43:29 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[17-Sep-2025 00:43:29 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[17-Sep-2025 00:43:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[20-Sep-2025 06:18:36 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[20-Sep-2025 06:18:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[23-Sep-2025 00:34:02 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[23-Sep-2025 00:34:02 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[23-Sep-2025 00:34:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[25-Sep-2025 11:19:40 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[25-Sep-2025 11:19:40 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[25-Sep-2025 11:19:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[27-Sep-2025 17:10:05 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[27-Sep-2025 17:10:06 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[27-Sep-2025 17:10:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[29-Sep-2025 01:02:06 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[29-Sep-2025 01:02:06 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[29-Sep-2025 01:02:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[05-Oct-2025 13:29:04 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[05-Oct-2025 13:29:04 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[05-Oct-2025 13:29:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[06-Oct-2025 05:58:47 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[06-Oct-2025 05:58:48 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[06-Oct-2025 05:58:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[10-Oct-2025 06:18:51 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[10-Oct-2025 06:18:51 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[10-Oct-2025 06:18:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[11-Oct-2025 10:19:10 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[11-Oct-2025 10:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[13-Oct-2025 09:35:08 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[13-Oct-2025 09:35:08 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[13-Oct-2025 09:35:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[15-Oct-2025 09:58:22 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[15-Oct-2025 09:58:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[15-Oct-2025 10:02:27 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[15-Oct-2025 10:02:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[15-Oct-2025 10:19:52 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[15-Oct-2025 10:19:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[20-Oct-2025 10:44:24 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[20-Oct-2025 10:44:24 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[20-Oct-2025 10:44:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[22-Oct-2025 11:55:07 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[22-Oct-2025 11:55:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[27-Oct-2025 07:11:08 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[27-Oct-2025 07:11:08 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[27-Oct-2025 07:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[27-Oct-2025 20:20:11 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[27-Oct-2025 20:20:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[28-Oct-2025 09:15:26 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[28-Oct-2025 09:15:26 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[28-Oct-2025 09:15:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14
+[03-Nov-2025 08:34:11 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/valiantbusinesss/public_html/contact.php on line 7
+[03-Nov-2025 08:34:11 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LcM0YopAAAAAAjzK3Q6vWHcUAteZS4uIilRgkXB&amp;response=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/valiantbusinesss/public_html/contact.php on line 10
+[03-Nov-2025 08:34:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/valiantbusinesss/public_html/contact.php on line 14

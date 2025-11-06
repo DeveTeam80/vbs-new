@@ -1,0 +1,23 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://www.valiantbusinesssolutions.com/$1 [R=301,L] 
+RewriteCond %{http_host} ^valiantbusinesssolutions.com [NC]
+RewriteRule ^(.*)$ https://www.valiantbusinesssolutions.com/$1 [R=301,L] 
+
+#user friendly urls
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+
+Redirect 301 /vbstravel/air-ticketing https://www.valiantbusinesssolutions.com/vbstravel/best-flight-booking-agency-in-pune-india
+
+Redirect 301 /vbstravel/domestic https://www.valiantbusinesssolutions.com/vbstravel/domestic-tour-packages
+
+Redirect 301 /vbstravel/international https://www.valiantbusinesssolutions.com/vbstravel/international-tour-packages
+
+Redirect 301 /job-opportunities https://www.valiantbusinesssolutions.com/corporate-travel/career-form
+
+Redirect 301 /jobs/engineer-mould-maintenance https://www.valiantbusinesssolutions.com/corporate-travel/manufacturing
+
+ErrorDocument 404 /Error-404.html
