@@ -95,7 +95,7 @@ body {
 }
 .home {
 	height: 100vh;
-	background: url('images/about/landing-page-01.jpg');
+	background: url('images/vbs-banner.jpg');
 	background-size: cover;
 	background-position:center;
 	background-attachment:fixed ;
@@ -302,7 +302,7 @@ a.btn-one.style2.tra {
 		display: none;
 	}
 	section.mobileslider {
-		height: 168px;
+		height: 330px;
 		background-size: contain;
 		position: relative;
 	}
