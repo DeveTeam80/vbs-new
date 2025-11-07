@@ -95,14 +95,10 @@ body {
 }
 .home {
 	height: 100vh;
-	background: url('images/about/travel.jpeg');
+	background: url('images/background/travel-banner.png');
 	background-size: cover;
 	background-position:center;
 	background-attachment:fixed ;
-	@media screen and (min-width: 768px) {
-		animation: aboutFlexSlide $defaultSeconds 1;
-		animation-delay: 0s;
-	}
 }
 
 @keyframes aboutFlexSlide {
@@ -124,8 +120,6 @@ body {
 	@media screen and (min-width: 768px) {
 		transform: rotate(90deg);
 		top: 15%;
-		animation: aboutFlexSlide $defaultSeconds 1;
-		animation-delay: 0s;
 	}
 }
 
@@ -148,10 +142,6 @@ body {
 
 .flex-about-home {
 	opacity: 0;
-	@media screen and (min-width: 768px) {
-		animation: aboutFlexSlide $defaultSeconds 1;
-		animation-delay: 0s;
-	}
 }
 
 @keyframes flexAboutHome {
@@ -169,7 +159,7 @@ body {
 
 
 .about {
-	background: url('images/vbs-banner.jpg');
+	background: url('images/background/corporate-travel-banner.png');
 	background-size: cover;
 	background-position:center;
 	background-attachment:fixed ;
