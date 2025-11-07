@@ -95,7 +95,7 @@ body {
 }
 .home {
 	height: 100vh;
-	background: url('images/vbs-banner.jpg');
+	background: url('images/about/travel.jpeg');
 	background-size: cover;
 	background-position:center;
 	background-attachment:fixed ;
@@ -169,7 +169,7 @@ body {
 
 
 .about {
-	background: url('images/about/landing-page-02.jpg');
+	background: url('images/vbs-banner.jpg');
 	background-size: cover;
 	background-position:center;
 	background-attachment:fixed ;
