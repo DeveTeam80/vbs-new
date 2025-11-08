@@ -100,6 +100,16 @@ body {
 	background-position:center;
 	background-attachment:fixed ;
 }
+.home::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 20%;
+  background: rgba(0, 0, 0, 0.45); /* black overlay with 45% opacity */
+  z-index: 1;
+}
 
 @keyframes aboutFlexSlide {
 	0% {
