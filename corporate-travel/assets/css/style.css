@@ -5691,9 +5691,10 @@ element.style {}
   align-items: center;
   
 }
+*/
 .wa{
-  margin-left: 34px;
-} */
+  margin-left: 0px!important;
+} 
 
 /* whatsapp end  */
 section.why-choose-two {
