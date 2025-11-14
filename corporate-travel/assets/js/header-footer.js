@@ -63,11 +63,11 @@ class header extends HTMLElement {
                                             </li>
                                             <li class=dropdown><a href="https://www.travolex.com"><span>Travel</span></a>
                                             </li>
-                                            <li class=dropdown><a href="corporate-travel/index"><span>Corporate Travel</span></a>
+                                            <li class=dropdown><a href="../corporate-travel"><span>Corporate Travel</span></a>
                                             </li>
                                             <li class=dropdown><a href=../services><span>Services</span></a>
                                             </li>
-                                            <li><a class="contact-btn" href=contact><span>Get In Touch</span></a>
+                                            <li><a class="contact-btn" href=../contact><span>Get In Touch</span></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -109,9 +109,7 @@ class footer extends HTMLElement {
                                         </div>
                                         <div class="text-box">
                                             <p>
-                                                VBS was incorporated to create a new model and have a
-                                                relationship-driven approach by providing a transparent platform
-                                                for all their travel and recruitment needs.
+                                                VBS was established to introduce a new model built on strong relationships, offering a transparent platform that supports all travel and corporate travel requirements.
                                             </p>
                                         </div>
                                     </div>

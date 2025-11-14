@@ -111,9 +111,7 @@ class footer extends HTMLElement {
                                         </div>
                                         <div class="text-box">
                                             <p>
-                                                VBS was incorporated to create a new model and have a
-                                                relationship-driven approach by providing a transparent platform
-                                                for all their travel and recruitment needs.
+                                                VBS was established to introduce a new model built on strong relationships, offering a transparent platform that supports all travel and corporate travel requirements.
                                             </p>
                                         </div>
                                     </div>
