@@ -67,6 +67,8 @@ class header extends HTMLElement {
                                             </li>
                                             <li class=dropdown><a href=../services><span>Services</span></a>
                                             </li>
+                                            <li class=dropdown><a href=../blog><span>Blogs</span></a>
+                                            </li>
                                             <li><a class="contact-btn" href=../contact><span>Get In Touch</span></a>
                                             </li>
                                         </ul>
