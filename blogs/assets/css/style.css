@@ -119,6 +119,165 @@ h3 {
   font-size: 22px;
 }
 
+/* Blog sidebar css*/
+/* ---------------------------
+   Layout tweaks & grid basics
+   --------------------------- */
+.row.content-row {
+  align-items: flex-start;
+}
+
+/* Ensure main columns are natural flow (no inner scrolling) */
+.col-8, .blog-details-content {
+  /* Do NOT set overflow or fixed heights here — page should scroll normally */
+  height: auto;
+  overflow: visible;
+  box-sizing: border-box;
+}
+
+/* ---------------------------
+   Sticky sidebar (Swiza-style)
+   --------------------------- */
+/* Compute top offset in JS if you have a header, or adjust fallback value */
+:root {
+  --sticky-top: 24px; /* fallback for sticky top distance */
+}
+
+/* Sidebar wrapper that becomes sticky while the page scrolls */
+.sidebar-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: var(--sticky-top);
+  align-self: flex-start; /* makes the sticky stick within the row */
+  width: 100%;
+  /* Do NOT place overflow, transform, or perspective on parent containers,
+     otherwise sticky will not work. */
+}
+
+/* ---------------------------
+   Sidebar visual style
+   --------------------------- */
+.sidebar-card {
+  background: #fafafa;
+  border-radius: 6px;
+  padding: 18px;
+  box-shadow: 0 6px 18px rgba(16, 15, 109, 0.06);
+  border: 1px solid rgba(0,0,0,0.04);
+}
+
+/* Title with yellow accent */
+.sidebar-card h3 {
+  margin: 0 0 12px 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #100f6d;
+  position: relative;
+  padding-left: 10px;
+}
+
+/* Services / product list */
+.products-list {
+  margin: 0;
+  padding: 0 8px;
+}
+.products-list li {
+  list-style: none;
+  padding: 8px 0;
+  font-size: 14px;
+  color: #444;
+  border-bottom: 1px dashed rgba(0,0,0,0.03);
+}
+.products-list li a {
+  color: #444;
+  text-decoration: none;
+}
+
+/* Related posts list */
+.related-posts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 12px;
+}
+.related-posts li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.related-posts .thumb {
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+  border-radius: 3px;
+  flex-shrink: 0;
+  background: #eee;
+}
+.related-posts .thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.related-posts .meta {
+  font-size: 13px;
+  color: #333;
+}
+.related-posts .meta a {
+  display: block;
+  font-weight: 600;
+  color: #100f6d;
+  text-decoration: none;
+}
+.related-posts .meta .date {
+  font-size: 12px;
+  color: #808080;
+  margin-top: 6px;
+}
+
+/* ---------------------------
+   Blog image & text styling
+   --------------------------- */
+.img-holder {
+  position: relative;
+  margin-bottom: 18px;
+}
+.img-holder .inner img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+.img-holder .date-box {
+  position: absolute;
+  left: 18px;
+  bottom: 18px;
+  background: #100f6d;
+  padding: 8px 10px;
+  border-radius: 4px;
+}
+.img-holder .date-box h6 {
+  margin: 0;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* text content */
+.text-inner p { line-height: 1.6; margin-bottom: 12px; color: #333; }
+.sm-vbs { margin-top: 16px; color: #100f6d; }
+
+/* ---------------------------
+   Responsive: disable sticky
+   --------------------------- */
+@media (max-width: 991px) {
+  .col-8, .col-4 { width: 100%; }
+  .sidebar-sticky {
+    position: static;
+    margin-top: 18px;
+  }
+}
+/* Blog sidebar css*/
+
 .form-control:focus {
   -webkit-box-shadow: 0 0 0 0;
   box-shadow: 0 0 0 0;
